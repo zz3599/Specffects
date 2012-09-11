@@ -6,4 +6,8 @@ Speceffects is a quirky jQuery plugin to make star wars effects. Only on Chrome/
 
 $('#yourElement').specffect('scroller');
 
+## Dependencies
+
+Tested with jQuery 1.8.1
+
 
